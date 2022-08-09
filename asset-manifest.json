@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/third-quest/static/css/main.8d5d2cc4.css",
+    "main.js": "/third-quest/static/js/main.4840fd07.js",
+    "index.html": "/third-quest/index.html",
+    "main.8d5d2cc4.css.map": "/third-quest/static/css/main.8d5d2cc4.css.map",
+    "main.4840fd07.js.map": "/third-quest/static/js/main.4840fd07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d5d2cc4.css",
+    "static/js/main.4840fd07.js"
+  ]
+}
